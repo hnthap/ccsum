@@ -1,3 +1,5 @@
+<!-- markdownlint-disable -->
+
 ## CCSum: A Large-Scale and High-Quality Dataset for Abstractive News Summarization (NAACL 2024)
 This Repo contains the code for the paper ["CCSum: A Large-Scale and High-Quality Dataset for Abstractive News Summarization."](https://aclanthology.org/2024.naacl-long.406/)
 
